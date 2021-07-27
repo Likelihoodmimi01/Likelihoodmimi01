@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Likelihoodmimi01. I come from Taiwan.
+- 👋 Hi, I’m @Likelihoodmimi01 and come from Taiwan.
 - 👀 I’m interested in researching for Economics and Finance by using mathematical tools.
 - 🌱 I’m currently learning Julia, but I'm a new guy.
 - 💞️ I’m looking to collaborate on network.
-- 📫 How to reach me by this account.
+- 📫 You can reach me by this account.
 
 <!---
 Likelihoodmimi01/Likelihoodmimi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
